@@ -68,3 +68,11 @@ section > h1 {
   display: inline-block;
   margin: 0 5px;
 }
+
+.link {
+  color: #007fe0
+}
+
+.link:hover {
+  color: #ff8200
+}
